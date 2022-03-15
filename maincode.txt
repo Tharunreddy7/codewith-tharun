@@ -1,1 +1,2 @@
 i like to learn python script
+i want learn shell script also 
