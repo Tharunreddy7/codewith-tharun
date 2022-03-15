@@ -2,3 +2,5 @@ thse first line is added.
 this my second line in this file.
 checking for fetch commands
 checking for merge conflict
+sloveing merge conflict
+
